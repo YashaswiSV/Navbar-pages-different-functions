@@ -1,0 +1,60 @@
+{
+  "employee": [
+    {
+      "empid": 101,
+      "ename": "Rahul",
+      "design": "Developer",
+      "depart": "hr",
+      "bsalary": 40000,
+      "id": "114a"
+    },
+    {
+      "empid": 102,
+      "ename": "Priya",
+      "design": "Analyst",
+      "depart": "hr",
+      "bsalary": 30000,
+      "id": "15e6"
+    },
+    {
+      "empid": 103,
+      "ename": "Yuvi",
+      "design": "graphic designer",
+      "depart": "hr",
+      "bsalary": 25000,
+      "id": "278a"
+    },
+    {
+      "id": "2f07",
+      "empid": "12",
+      "ename": "ghvktc",
+      "design": "jdgyj",
+      "depart": "hr",
+      "bsalary": "12222"
+    },
+    {
+      "id": "2bba",
+      "empid": "244",
+      "ename": "ishita",
+      "design": "gd",
+      "depart": "hr",
+      "bsalary": "40000"
+    },
+    {
+      "id": "221c",
+      "empid": "db",
+      "ename": "hdbh",
+      "design": "dhbah",
+      "depart": "hbdk",
+      "bsalary": "677"
+    },
+    {
+      "id": "334f",
+      "empid": "34",
+      "ename": "raj",
+      "design": "gd",
+      "depart": "hr",
+      "bsalary": "34000"
+    }
+  ]
+}
